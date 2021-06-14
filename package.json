@@ -1,0 +1,11 @@
+{
+  "name": "graphql-tutorial",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:masarufuruya/graphql-tutorial.git",
+  "author": "masarufuruya <masarufuruya116@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "graphql": "15.5.0"
+  }
+}
